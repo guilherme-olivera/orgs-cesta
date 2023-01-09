@@ -31,6 +31,7 @@ const estilos = StyleSheet.create({
     topo:{
         width: "100%",
         height: 578 / 768 * width,
+        
     },
     titulo: {
         width: "100%",
@@ -50,7 +51,7 @@ const estilos = StyleSheet.create({
         color: "464646",
         fontSize: 26,
         lineHeight: 42,
-        fontWeight: "bold"
+        fontWeight: "normal"
     },
     fazenda:{
         flexDirection:"row",
